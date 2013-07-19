@@ -1,0 +1,31 @@
+POSIBLES NOMBRES PARA EL PRODUCTO, YO USE THERMOGILIO PARA PODER EMPEZAR A TRABAJAR SOBRE LA PAGINA Y LUEGO QUE ESCOJAMOS HACERMO UN SEARCH AND REPLACE Y LISTO.
+
+1 Hot N Float
+2 Hot N Floating
+3 Hot Stuff
+4 Floating Dan -> en honor a Daniel Fahrenheit inventor del termometro de Mercurio
+5 FahrenFloat
+6 FahrenFloater
+7 Celsius Float
+8 Floatin' Hottie
+9 Hot or Not -> robandonos el nombre del app de fb
+10 ThermoFloat
+11 Thermogilio! -> jojojo
+12 Thermoscope
+13 Galileo -> invento el primer termometro
+14 Floating Gal -> combinando la idea de 4 con 13
+
+POSIBLES MERCADOS PARA EL PRODUCTO
+Creo que el target market que uno primero le viene a la mente es chefs me imagino que asi que tu lo viste en un principio, chef tradicionales que necesitan medir liquidos, agua, salsas, reducciones, etc.
+Otro posible mercado mucho mas grande que chefs es households, tambi'en es medio obvio pero importante mencionar.
+El mercado que debemos atacar ahorita para el crowdfunder es los early adopters mainly young chefs and foodies like ourselves, ma~nana sacamos un back-of-the-envelope calculations para pledge amounts y critical mass. (debe ser algo como lo siguiente: 5000 pa desarrollar el prototipo, 5 dolares costo marginal, pladge amount 10, si llegamos a 1000 pledges es un go).
+Otros mercado en los que podemos pensar y que tienen un potencial inmenso son (cafeterias (tremenda herramienta para los baristos, piensa en la demanda de starbucks pq el cafe estaba muy caliente), heladerias? no tengo idea si ellos necesitan medir la temperatura de algun ingrediente pero es una idea. En USA y en el mundo occidental en general hay una fiebre de TE, a mi me encanta y he aprendido bastante ultimamente, una de las cosas m'as importantes es la temperatura del agua que var'ia dependiendo de cada tipo de te, a lo mejor el producto se puede mercadear como una accesorio para tea enthusiasts y lo distribuimos mediante cadenas como teavana, david's tea, english tea store, teaforte, etc. Otro mercado interesante son los pasteleros, hable con Andrea Garzon y me dijo que hay muchas cosas que son delicada que hay que medir la temperatura, caramelo, chocolate, cremas, suspiros, los materiales para hacer macarons son muy sensibles a la temperatura, etc etc. THE SKY IS THE LIMIT.
+
+IMAGENES
+Si ves alguna imagen que te guste en intagram.com/andreagarzonf nos la podemos robar y usarla aunque le di una pasada y no vi nada que nos sirva, hay varios archivos de imagenes con licencia GPL que los puedes conseguir googleando facilmente o podemos decirle a Andrea que nos tome una fotos de cosas especificas si queremos algo (obvio esta ultima opcion es para iteraciones posteriores de la pagina.
+
+I'm sleepy tty tomorrow biatch!
+
+
+
+
